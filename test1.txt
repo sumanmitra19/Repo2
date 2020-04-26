@@ -1,2 +1,6 @@
 changed observed.
+
 new one
+
+changing in master branch
+
